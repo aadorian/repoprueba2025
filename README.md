@@ -22,3 +22,4 @@ git commit -m “mensaje":  Tratar de usar conventional commits
 
 git log : ver el log de todos los commits realizados al momento
 
+# Otro Tema de estudio 
